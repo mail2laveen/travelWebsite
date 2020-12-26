@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import { Navbar, Nav, NavItem, Image } from "react-bootstrap";
 import "../../Styles/navigation.css";
-import { kittenHeader } from "/logo3.png";
 
 export default class Navigation extends Component {
   render() {
@@ -11,7 +10,7 @@ export default class Navigation extends Component {
         <Navbar.Header>
           <Navbar.Brand>
             <Link to="/">
-              <Image className="logo" src={kittenHeader} />{" "}
+              <Image className="logo" src="logo3.png"/>{" "}
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle />
