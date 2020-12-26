@@ -77,8 +77,8 @@ export default class Home extends Component {
               />
               <h3>Vishwas</h3>
               <p>
-                “I would highly recommend Pradeep because everything on my month
-                long trip to India went without a hitch.”{" "}
+                “I would highly recommend Pradeep because of his exprince and
+                expertices in tour and travels.”{" "}
               </p>
             </Col>
           </Row>
