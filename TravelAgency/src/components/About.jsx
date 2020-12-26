@@ -63,7 +63,7 @@ export default class About extends Component {
             <Row className="show-grid text-center">
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image
-                  src="/assets/img/person1.jpg"
+                  src="/assets/img/p1.jpg"
                   circle
                   className="profile-pic"
                 />
@@ -78,11 +78,11 @@ export default class About extends Component {
 
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image
-                  src="/assets/img/person3.jpg"
+                  src="/assets/img/p2.jpg"
                   circle
                   className="profile-pic"
                 />
-                <h3>S. Suresh</h3>
+                <h3>Santosh</h3>
                 <h5>Senior Travel Agent</h5>
                 <p>
                   “I would highly recommend Raghu because everything on my month
@@ -93,7 +93,7 @@ export default class About extends Component {
 
               <Col xs={12} sm={4} className="person-wrapper">
                 <Image
-                  src="/assets/img/person2.jpg"
+                  src="/assets/img/p3.jpg"
                   circle
                   className="profile-pic"
                 />
