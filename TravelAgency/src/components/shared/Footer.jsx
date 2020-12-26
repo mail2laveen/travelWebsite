@@ -50,7 +50,10 @@ export default class Navigation extends Component {
                 />
                 <div className="info-footer">
                   <h4> EMAIL</h4>
-                  <p> friends.travels@gmail.com</p>
+                  <p>
+                    {" "}
+                    friendstravelsjeypore@gmail.com, chpradeep7268@gmail.com
+                  </p>
                 </div>
               </Col>
 

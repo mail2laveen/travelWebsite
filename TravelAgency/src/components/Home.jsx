@@ -44,11 +44,11 @@ export default class Home extends Component {
 
             <Col xs={12} sm={4} className="person-wrapper">
               <Image
-                src="/assets/img/testimony/p1.jpg"
+                src="/assets/img/testimony/l.jpg"
                 circle
                 className="profile-pic"
               />
-              <h3>Mari Johnson</h3>
+              <h3>Laveen</h3>
               <p>
                 “Pradeep was an excellent Travel Agent for us and considered our
                 unique needs as she planned our itinerary. Every suggestion he
@@ -58,11 +58,11 @@ export default class Home extends Component {
 
             <Col xs={12} sm={4} className="person-wrapper">
               <Image
-                src="/assets/img/testimony/p2.jpg"
+                src="/assets/img/testimony/s.jpg"
                 circle
                 className="profile-pic"
               />
-              <h3>James Anderson</h3>
+              <h3>Sarthak</h3>
               <p>
                 “I would highly recommend Pradeep because everything on my month
                 long trip to India went without a hitch.”
@@ -71,11 +71,11 @@ export default class Home extends Component {
 
             <Col xs={12} sm={4} className="person-wrapper">
               <Image
-                src="/assets/img/testimony/p3.jpg"
+                src="/assets/img/testimony/v.jpg"
                 circle
                 className="profile-pic"
               />
-              <h3>Becka Steward</h3>
+              <h3>Vishwas</h3>
               <p>
                 “I would highly recommend Pradeep because everything on my month
                 long trip to India went without a hitch.”{" "}
