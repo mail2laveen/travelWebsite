@@ -78,7 +78,7 @@ export default class Home extends Component {
               <h3>Vishwas</h3>
               <p>
                 “I would highly recommend Pradeep because of his exprince and
-                expertices in tour and travels.”{" "}
+                expertices in entire Koraput district area.”{" "}
               </p>
             </Col>
           </Row>
