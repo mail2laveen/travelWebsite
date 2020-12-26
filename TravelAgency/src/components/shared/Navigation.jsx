@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import { Navbar, Nav, NavItem, Image } from "react-bootstrap";
 import "../../Styles/navigation.css";
-import kittenHeader from '/logo3.png';
+import { kittenHeader } from "/logo3.png";
 
 export default class Navigation extends Component {
   render() {
