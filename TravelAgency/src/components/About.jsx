@@ -70,7 +70,7 @@ export default class About extends Component {
                 <h3>Pradeep</h3>
                 <h5>Founder and Director</h5>
                 <p>
-                  “Rajesh was an excellent Travel Agent for us and considered
+                  “Pradeep was an excellent Travel Agent for us and considered
                   our unique needs as she planned our itinerary. Every
                   suggestion he made was excellent.”{" "}
                 </p>
@@ -85,8 +85,8 @@ export default class About extends Component {
                 <h3>Santosh</h3>
                 <h5>Senior Travel Agent</h5>
                 <p>
-                  “I would highly recommend Raghu because everything on my month
-                  long trip to Vishakhapatnam, Hydrabad and Bangalore went
+                  “I would highly recommend Santosh because everything on my
+                  month long trip to Vishakhapatnam, Hydrabad and Bangalore went
                   without a hitch.”
                 </p>
               </Col>
@@ -100,7 +100,7 @@ export default class About extends Component {
                 <h3>Jagdish</h3>
                 <h5>Hotel Agent</h5>
                 <p>
-                  “I would highly recommend Pradeep because everything on my
+                  “I would highly recommend Jagdish because everything on my
                   month long trip to Koraput district went without a hitch.”{" "}
                 </p>
               </Col>
